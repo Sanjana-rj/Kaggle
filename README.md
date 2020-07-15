@@ -2,6 +2,9 @@
 
 The challenge is to use the Titanic passenger data (name, age, price of ticket, etc) to try to predict who will survive and who will die.
 
+![Titanic-Wallpapers-HD-768x480](https://user-images.githubusercontent.com/54449980/87512280-9130a880-c62b-11ea-8505-6497aa85ded7.jpg)
+
+
 # Workflow stages
 The competition solution workflow goes through seven stages.
 
