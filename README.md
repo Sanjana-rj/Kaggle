@@ -1,10 +1,9 @@
 # Kaggle-Titanic
 
-The challenge
-We want you to use the Titanic passenger data (name, age, price of ticket, etc) to try to predict who will survive and who will die.
+The challenge is to use the Titanic passenger data (name, age, price of ticket, etc) to try to predict who will survive and who will die.
 
 # Workflow stages
-The competition solution workflow goes through seven stages described in the Data Science Solutions book.
+The competition solution workflow goes through seven stages.
 
   1.	Problem Statement and understanding.
   2.	Acquire training and testing data.
