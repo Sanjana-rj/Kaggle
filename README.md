@@ -16,7 +16,7 @@ The competition solution workflow goes through seven stages.
 # Probelem Statement
 Predicting the survivability rate of the Titanic Passenger
 
-#Team Members
+# Team Members
 Sanjana Rajesh
 Arjun 
 
