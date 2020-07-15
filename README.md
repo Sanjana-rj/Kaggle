@@ -5,7 +5,7 @@ The challenge is to use the Titanic passenger data (name, age, price of ticket, 
 # Workflow stages
 The competition solution workflow goes through seven stages.
 
-  1.	Problem Statement and understanding.
+  1.	Problem definition and understanding.
   2.	Acquire training and testing data.
   3.	Exploratory Data Analysis.
   4.	Data Preparation.
