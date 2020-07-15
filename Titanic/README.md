@@ -19,9 +19,16 @@ The competition solution workflow goes through seven stages.
 # Probelem Statement
 Predicting the survivability rate of the Titanic Passenger
 
+# Prerequisites
+Python 3
+Numpy
+MatPlotLib
+OpenCv
+Pytorch
+
 # Team Members
 1.	Sanjana Rajesh
-2.	Arjun
+2.	Arjun Gopinath
 
 # License and copyright
 Licensed under the [MIT License]_LICENSE
