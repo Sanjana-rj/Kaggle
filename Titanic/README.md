@@ -23,8 +23,7 @@ Predicting the survivability rate of the Titanic Passenger
 Python 3
 Numpy
 MatPlotLib
-OpenCv
-Pytorch
+
 
 # Team Members
 1.	Sanjana Rajesh
